@@ -13,7 +13,10 @@ This is my workflow before I find out the best way to work with git right inside
 - Make a new `tmux` pane by: `<C-b>-`
 - `git diff` and whatever 
 
-After watching this video [https://www.youtube.com/watch?v=PO6DxfGPQvw&t=375s](https://www.youtube.com/watch?v=PO6DxfGPQvw&t=375s), I found out that there is a simpler way to interact with git without leaving the vim
+After watching this video 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PO6DxfGPQvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+I found out that there is a simpler way to interact with git without leaving the vim
+
 
 ### Installation
 

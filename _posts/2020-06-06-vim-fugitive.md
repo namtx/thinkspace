@@ -11,7 +11,7 @@ This is my workflow before I find out the best way to work with git right inside
 
 - Edit a file, save it
 - Make a new `tmux` pane by: `<C-b>-`
-- `git diff` and whatever 
+- `git diff` and whatever to get things done
 
 After watching this video 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PO6DxfGPQvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vim-fugitive"
+title: "VIM-fugitive"
 description: "How to work with git without leaving VIM"
 comments: true
 keywords: "vim"
@@ -15,7 +15,7 @@ This is my workflow before I find out the best way to work with git right inside
 
 After watching this video 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PO6DxfGPQvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-I found out that there is a simpler way to interact with git without leaving the vim
+I found out that there is a simpler way to interact with git without leaving the VIM
 
 
 ### Installation
@@ -28,7 +28,7 @@ nmap <leader>gu :diffget //2<cr>
 nmap <leader>gs :G<cr>
 ```
 
-Source the vim configuration file and then
+Source the VIM configuration file and then
 
 ```bash
 :PlugInstall

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VIM-fugitive"
+title: "vim-fugitive"
 description: "How to work with git without leaving VIM"
 comments: true
 keywords: "vim"

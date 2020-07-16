@@ -11,14 +11,14 @@ keywords: docker, best-practices
 - Centralize logs and make them searchable: [fluentd](https://www.fluentd.org/), EFK stack (Elastic Search, Fluentd, Kibana)
 ![typical log management system in k8s](https://cloud.google.com/solutions/images/bp-operating-containers-log-management.svg)
 - JSON logs
-```json
-{
-  "date": "2018-01-01 01:01:01",
-  "component": "foo",
-  "subcomponent": "foo.bar",
-  "level": "WARNING",
-  "message": "There is something wrong."
-}
+```js
+  {
+    "date": "2018-01-01 01:01:01",
+    "component": "foo",
+    "subcomponent": "foo.bar",
+    "level": "WARNING",
+    "message": "There is something wrong."
+  }
 ```
 
 - Log aggregator sidecar pattern

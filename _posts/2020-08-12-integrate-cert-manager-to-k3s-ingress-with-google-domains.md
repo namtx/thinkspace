@@ -8,7 +8,7 @@ keywords:
 ### Concepts
 
 #### Issuer
-- Inssuers, ClusterIssuers are k8s resources that represent CA that are able to generate signed certificates.
+- Issuers, ClusterIssuers are k8s resources that represent CA that are able to generate signed certificates.
 
 ```yaml
 apiVersion: cert-manager.io/v1alpha2

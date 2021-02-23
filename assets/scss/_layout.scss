@@ -191,6 +191,10 @@ hr {
 
 .post {
   @extend .clearfix;
+
+  .issue-label {
+    padding: 5px 10px;
+  }
 }
 
 .pagination {

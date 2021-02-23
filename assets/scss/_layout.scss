@@ -44,6 +44,11 @@ hr {
   margin-right: auto;
   max-width: 800px;
   font-weight: normal;
+  display: flex;
+
+  @media screen and (max-width: 768px) {
+    flex-direction: column;
+  }
 }
 
 .pull-left {
@@ -109,9 +114,7 @@ hr {
 }
 
 .navbar {
-  float: right;
   margin: 0;
-  position: relative;
   padding: 0;
   pointer-events: all;
   cursor: pointer;
@@ -119,6 +122,10 @@ hr {
   li {
     display: inline-block;
     padding: 0 .6em;
+  }
+
+  li:first-of-type {
+    padding: 0 0;
   }
 
   a {

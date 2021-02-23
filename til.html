@@ -1,14 +1,13 @@
 ---
 layout: default
-title: Home
+title: TIL (Today I learned)
 ---
-
-{% include intro.html %}
 
 <section class="post-list">
   <div class="container">
+    <h2>TIL (Today I learned)</h2>
     {% for post in site.posts %}
-      {% if post.label != "til" %}   
+      {% if post.label == "til" %}   
         {% unless post.next %}
           <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
         {% else %}

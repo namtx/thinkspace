@@ -9,4 +9,5 @@ title: "Set env value in test"
   	<span class="issue-label" style="background-color: aaffbf">spring</span>
   
 </p>
+https://junit-pioneer.org/docs/environment-variables/
 

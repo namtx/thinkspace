@@ -13,4 +13,16 @@ title: "Export css module variable to JS"
   	<span class="issue-label" style="background-color: f298a4">js</span>
   
 </p>
+```scss
+// styles.module.scss
+:export {
+  grayLightColor: $color-gray-light;
+}
+```
+
+```js
+import styles from './styles.module.scss';
+
+console.log(styles.grayLightColor);
+```
 

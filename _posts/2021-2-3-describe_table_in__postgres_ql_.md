@@ -11,4 +11,15 @@ title: "Describe table in PostgresQL "
   	<span class="issue-label" style="background-color: cc3eef">postgresql</span>
   
 </p>
+```sql
+SELECT 
+   table_name, 
+   column_name, 
+   data_type,
+   is_nullable
+FROM 
+   information_schema.columns
+WHERE 
+   table_name = 'compensations';
+```
 

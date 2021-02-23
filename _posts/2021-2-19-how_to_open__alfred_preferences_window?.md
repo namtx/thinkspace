@@ -11,4 +11,5 @@ title: "How to open Alfred preferences window?"
   	<span class="issue-label" style="background-color: AF70A4">shortcut</span>
   
 </p>
+`⌘ + , ` to open Alfred preferences window 
 

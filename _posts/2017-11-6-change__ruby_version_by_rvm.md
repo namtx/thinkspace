@@ -4,7 +4,9 @@ label: til
 title: "Change Ruby version by RVM"
 ---
 
-```bash
-source ~/.rvm/scripts/rvm 
-```
+<p>
+  
+  	<span class="issue-label" style="background-color: b517d1">ruby</span>
+  
+</p>
 

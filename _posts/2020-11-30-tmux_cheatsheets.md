@@ -4,5 +4,9 @@ label: til
 title: "Tmux cheatsheets"
 ---
 
-https://tmuxcheatsheet.com/
+<p>
+  
+  	<span class="issue-label" style="background-color: 92e800">tmux</span>
+  
+</p>
 

@@ -4,7 +4,9 @@ label: til
 title: "[GIT] create patch file"
 ---
 
-```bash
-git diff > path_file_name.patch
-```
+<p>
+  
+  	<span class="issue-label" style="background-color: 05c66c">git</span>
+  
+</p>
 

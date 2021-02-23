@@ -4,5 +4,9 @@ label: til
 title: "Postgresql search text %search%"
 ---
 
-https://www.postgresql.org/docs/12/pgtrgm.html
+<p>
+  
+  	<span class="issue-label" style="background-color: cc3eef">postgresql</span>
+  
+</p>
 

@@ -4,6 +4,11 @@ label: til
 title: "Vim <3 ReactJS"
 ---
 
-https://thoughtbot.com/blog/modern-typescript-and-react-development-in-vim
-Vim ❤️ ReactJS
+<p>
+  
+  	<span class="issue-label" style="background-color: c5def5">ReactJS</span>
+  
+  	<span class="issue-label" style="background-color: c4ef83">vim</span>
+  
+</p>
 

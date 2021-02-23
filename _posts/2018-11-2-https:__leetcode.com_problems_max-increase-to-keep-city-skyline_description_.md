@@ -6,7 +6,7 @@ title: "https://leetcode.com/problems/max-increase-to-keep-city-skyline/descript
 
 <p>
   
-  	<span class="issue-label" style="background-color: 4018ba">Algorithms</span>
+  <span class="issue-label" style="background-color: #4018ba">Algorithms</span>
   
 </p>
 https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/

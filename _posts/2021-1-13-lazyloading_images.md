@@ -6,9 +6,9 @@ title: "lazyloading images"
 
 <p>
   
-  	<span class="issue-label" style="background-color: 792da8">css</span>
+  <span class="issue-label" style="background-color: #792da8">css</span>
   
-  	<span class="issue-label" style="background-color: C2D3D7">frontend</span>
+  <span class="issue-label" style="background-color: #C2D3D7">frontend</span>
   
 </p>
 Làm thế nào để lazy load img?

@@ -6,7 +6,7 @@ title: "docker: Got permission denied while trying to connect to the Docker daem
 
 <p>
   
-  	<span class="issue-label" style="background-color: 6ce27c">docker</span>
+  <span class="issue-label" style="background-color: #6ce27c">docker</span>
   
 </p>
 sudo usermod -a -G docker $USER

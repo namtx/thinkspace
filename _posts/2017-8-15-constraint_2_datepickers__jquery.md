@@ -4,6 +4,9 @@ label: til
 title: "Constraint 2 datepickers Jquery"
 ---
 
+<p>
+  
+</p>
 ```js
 $('document').ready(function() {
   $('#service_start_date, #service_end_date').datepicker({

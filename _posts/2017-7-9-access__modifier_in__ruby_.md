@@ -4,6 +4,9 @@ label: til
 title: "Access Modifier in Ruby "
 ---
 
+<p>
+  
+</p>
 + `public`:  phương thức này có thể gọi từ bất cứ đâu, có thể coi như không có kiểm soát hay giới hạn truy cập.
 + `protected`: phương thức này có thể được gọi từ một đối tượng của lớp này hoặc một đối tượng là con của lớp này.
 + `private`: phương thức này chỉ được gọi từ chính nó (đối tượng gọi và đối tượng nhận là một).

@@ -4,6 +4,13 @@ label: til
 title: "lazyloading images"
 ---
 
+<p>
+  
+  <span class="issue-label" style="background-color: #792da8">css</span>
+  
+  <span class="issue-label" style="background-color: #C2D3D7">frontend</span>
+  
+</p>
 Làm thế nào để lazy load img?
 What: lazy load nghĩa là mình không load resource nào đó trước khi mình thật sự cần đến chúng.
 Why: Page load time tốt hơn, tiết kiệm được bandwidth, trải nghiệm người dùng mượt hơn.

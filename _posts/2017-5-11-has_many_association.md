@@ -4,6 +4,9 @@ label: til
 title: "has_many association"
 ---
 
+<p>
+  
+</p>
 ## Methods
 ```ruby
 class Author < ApplicationRecord

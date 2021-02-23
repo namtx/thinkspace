@@ -4,6 +4,9 @@ label: til
 title: "k8s networking"
 ---
 
+<p>
+  
+</p>
 clusterip là chuyện map 1 cái svc ip+port ra nhiều pod ip+port
 Cái đó tầng trên
 Câu hỏi make sense hơn nếu phrase theo kiểu pod network map ra network ở dưới thế nào

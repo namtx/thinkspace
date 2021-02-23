@@ -4,6 +4,9 @@ label: til
 title: " migrate in Rails"
 ---
 
+<p>
+  
+</p>
 ### add index to column in by migrate
 ```yml
 rails g migration add_part_number_to_products part_number:string:index

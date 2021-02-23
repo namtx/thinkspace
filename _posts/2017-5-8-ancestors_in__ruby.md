@@ -4,6 +4,9 @@ label: til
 title: "ancestors in Ruby"
 ---
 
+<p>
+  
+</p>
 ```ruby
 module Speak
   def speak sound

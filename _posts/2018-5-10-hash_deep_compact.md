@@ -4,6 +4,9 @@ label: til
 title: "Hash deep compact"
 ---
 
+<p>
+  
+</p>
 ```ruby
 class Hash
   def deep_compact

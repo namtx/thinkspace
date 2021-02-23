@@ -4,6 +4,9 @@ label: til
 title: "Immutable fromJS "
 ---
 
+<p>
+  
+</p>
 https://stackoverflow.com/a/34613607/3898402
 In this example,
 

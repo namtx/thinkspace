@@ -4,6 +4,9 @@ label: til
 title: "Stream and stdin, stdout, stderr"
 ---
 
+<p>
+  
+</p>
 - Create a new file & feed some data
 ```bash
 $ touch /tmp/til.txt

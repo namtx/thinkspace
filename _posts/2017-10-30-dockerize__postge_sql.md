@@ -4,6 +4,9 @@ label: til
 title: "Dockerize PostgeSQL"
 ---
 
+<p>
+  
+</p>
 ```bash
 FROM ubuntu                                                                                                                                                                                   
                                                                                                                                                                                               

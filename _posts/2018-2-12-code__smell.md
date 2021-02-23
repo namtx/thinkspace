@@ -4,6 +4,9 @@ label: til
 title: "Code Smell"
 ---
 
+<p>
+  
+</p>
 ### Long method
  + flog
 

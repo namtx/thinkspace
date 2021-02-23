@@ -4,6 +4,9 @@ label: til
 title: "Ruby method lookup path "
 ---
 
+<p>
+  
+</p>
 1. Lookup within singleton class
 ```ruby
 class MyCar

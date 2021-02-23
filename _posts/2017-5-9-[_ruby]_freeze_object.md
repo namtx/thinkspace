@@ -4,6 +4,9 @@ label: til
 title: "[Ruby] freeze object"
 ---
 
+<p>
+  
+</p>
 ## Creating immutable objects
 
 > In Ruby constant is mutable

@@ -4,6 +4,9 @@ label: til
 title: "Ruby getter and setter"
 ---
 
+<p>
+  
+</p>
 In `Ruby`, getters and setters are typically defined by using class method `attr_accessor`
 ```ruby
 class Foo 

@@ -4,6 +4,9 @@ label: til
 title: "singleon method & singleton class"
 ---
 
+<p>
+  
+</p>
 ## Singleton method 
 is method is defined for only one instance
 ```ruby

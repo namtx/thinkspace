@@ -4,6 +4,9 @@ label: til
 title: "super keyword in Ruby's inheritance"
 ---
 
+<p>
+  
+</p>
 ```ruby
 class Animal 
   def initialize name

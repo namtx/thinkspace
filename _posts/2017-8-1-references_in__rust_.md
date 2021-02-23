@@ -4,6 +4,9 @@ label: til
 title: "References in Rust "
 ---
 
+<p>
+  
+</p>
 ![image](https://user-images.githubusercontent.com/25602820/28834793-888f8c20-770d-11e7-8cc7-e911b1647e08.png)
 ```rust
 fn main() {

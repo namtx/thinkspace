@@ -4,6 +4,9 @@ label: til
 title: "belongs_to association in Rails"
 ---
 
+<p>
+  
+</p>
 ## Methods
 ```ruby
 class Book < ApplicationRecord

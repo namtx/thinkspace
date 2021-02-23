@@ -4,6 +4,9 @@ label: til
 title: "Slices in Rust"
 ---
 
+<p>
+  
+</p>
 ```rust
 fn main() {
     let s = String::from("hello world");

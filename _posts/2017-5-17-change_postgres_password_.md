@@ -4,6 +4,9 @@ label: til
 title: "change postgres password "
 ---
 
+<p>
+  
+</p>
 ```
 sudo -u postgres psql
 ```

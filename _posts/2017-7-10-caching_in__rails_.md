@@ -4,6 +4,9 @@ label: til
 title: "Caching in Rails "
 ---
 
+<p>
+  
+</p>
 ## Page Caching 
 The whole `HTML` page is saved to a file inside the `public` directory. On subsequent requests, this file is being sent directly to the user without the need to render the view and layout again.
 

@@ -4,6 +4,9 @@ label: til
 title: "Replace || by indexOf"
 ---
 
+<p>
+  
+</p>
 ```js 
 if (input.files && input.files[0] && (ext == 'gif' || ext == 'png' || ext == 'jpeg' || ext == 'jpg'))...
 ```

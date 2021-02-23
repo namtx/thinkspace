@@ -4,6 +4,9 @@ label: til
 title: "associations in Rails"
 ---
 
+<p>
+  
+</p>
 ## self joins
 ```ruby
 class Employee < ApplicationRecord

@@ -4,6 +4,9 @@ label: til
 title: "ActiveRecord fun dog (yaoming)"
 ---
 
+<p>
+  
+</p>
 ## joins
 ```ruby
 User.joins(:posts)

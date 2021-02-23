@@ -4,6 +4,9 @@ label: til
 title: "differences in Rails"
 ---
 
+<p>
+  
+</p>
 ## `update_attribute` & `update_attributes`
 - `update_attribute` update single column <> `update_attributes`
 - `update_attribute` will not perform validations <> `update_attributes`

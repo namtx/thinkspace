@@ -4,6 +4,9 @@ label: til
 title: "Proc vs lambda"
 ---
 
+<p>
+  
+</p>
 One difference is in the way they handle arguments. Creating a proc using `proc {}` and `Proc.new {}` are equivalent. However, using `lambda {}` gives you a `proc` that checks the number of arguments passed to it. From `ri Kernel#lambda`:
 
 > Equivalent to Proc.new, except the resulting Proc objects check the number of parameters passed when called.

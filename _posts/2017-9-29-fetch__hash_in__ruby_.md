@@ -4,6 +4,9 @@ label: til
 title: "fetch Hash in Ruby "
 ---
 
+<p>
+  
+</p>
 ```ruby
 pets = { cat: "Jess" }
 pets[:dinosaur]

@@ -4,6 +4,9 @@ label: til
 title: "Callbacks in Ruby"
 ---
 
+<p>
+  
+</p>
 ### Use block 
 ```ruby
 def x num 

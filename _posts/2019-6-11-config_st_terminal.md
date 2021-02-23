@@ -4,6 +4,9 @@ label: til
 title: "config st terminal"
 ---
 
+<p>
+  
+</p>
 ### Step 1 - Clone st repository
 ```shell
 $ git clone https://git.suckless.org/st

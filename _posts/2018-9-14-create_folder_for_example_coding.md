@@ -4,6 +4,9 @@ label: til
 title: "Create folder for example coding"
 ---
 
+<p>
+  
+</p>
 ```shell
 for i in {a..z}
 do

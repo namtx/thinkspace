@@ -4,6 +4,9 @@ label: til
 title: "Art of readable code"
 ---
 
+<p>
+  
+</p>
 #### Aspect of coding and how to make it "easy to understand":
 #### - Surface-level improvement
 Naming, commenting

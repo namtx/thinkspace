@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Install PostgresQL on Ubuntu 16.04
+label: til
+title: "Install PostgresQL on Ubuntu 16.04"
 ---
+
 - Install 
 ```bash
     $ sudo apt-get update

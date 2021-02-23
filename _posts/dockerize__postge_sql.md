@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Dockerize PostgeSQL
+label: til
+title: "Dockerize PostgeSQL"
 ---
+
 ```bash
 FROM ubuntu                                                                                                                                                                                   
                                                                                                                                                                                               

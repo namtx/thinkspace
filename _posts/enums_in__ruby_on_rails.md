@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: enums in Ruby on rails
+label: til
+title: "enums in Ruby on rails"
 ---
+
 Model
 
 ```ruby

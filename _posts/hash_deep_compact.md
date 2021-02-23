@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Hash deep compact
+label: til
+title: "Hash deep compact"
 ---
+
 ```ruby
 class Hash
   def deep_compact

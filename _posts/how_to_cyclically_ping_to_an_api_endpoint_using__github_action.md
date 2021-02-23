@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: How to cyclically ping to an API endpoint using Github action
+label: til
+title: "How to cyclically ping to an API endpoint using Github action"
 ---
+
 - Create a cron-job github action with the following content:
 ```yaml
 name: Cron jobs

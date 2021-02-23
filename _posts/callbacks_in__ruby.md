@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Callbacks in Ruby
+label: til
+title: "Callbacks in Ruby"
 ---
+
 ### Use block 
 ```ruby
 def x num 

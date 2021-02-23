@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Immutable fromJS 
+label: til
+title: "Immutable fromJS "
 ---
+
 https://stackoverflow.com/a/34613607/3898402
 In this example,
 

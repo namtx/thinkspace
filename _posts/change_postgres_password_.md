@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: change postgres password 
+label: til
+title: "change postgres password "
 ---
+
 ```
 sudo -u postgres psql
 ```

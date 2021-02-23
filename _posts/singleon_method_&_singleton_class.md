@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: singleon method & singleton class
+label: til
+title: "singleon method & singleton class"
 ---
+
 ## Singleton method 
 is method is defined for only one instance
 ```ruby

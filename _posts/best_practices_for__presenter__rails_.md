@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: best practices for Presenter Rails 
+label: til
+title: "best practices for Presenter Rails "
 ---
+
 1. _Your controller action should ideally expose only one instance variable to your views - the presenter._
 2. _Back each view or partial with its own presenter._
 3. _Rendering partials within partials means your presenters can return other presenters for these partials._

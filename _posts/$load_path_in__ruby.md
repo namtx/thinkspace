@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: $LOAD_PATH in Ruby
+label: til
+title: "$LOAD_PATH in Ruby"
 ---
+
 When you add `/Users/namtx/workspace/lightning-pocker/lib` to $LOAD_PATH, you can use
 ```ruby
 require 'card'

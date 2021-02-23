@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Ruby method lookup path 
+label: til
+title: "Ruby method lookup path "
 ---
+
 1. Lookup within singleton class
 ```ruby
 class MyCar

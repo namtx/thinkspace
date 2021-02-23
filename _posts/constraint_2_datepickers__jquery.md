@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Constraint 2 datepickers Jquery
+label: til
+title: "Constraint 2 datepickers Jquery"
 ---
+
 ```js
 $('document').ready(function() {
   $('#service_start_date, #service_end_date').datepicker({

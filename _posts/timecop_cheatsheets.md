@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Timecop cheatsheets
+label: til
+title: "Timecop cheatsheets"
 ---
+
 - #### freeze 
 ```ruby
 Timecop.freeze(Time.local(1990))

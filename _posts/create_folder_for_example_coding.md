@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Create folder for example coding
+label: til
+title: "Create folder for example coding"
 ---
+
 ```shell
 for i in {a..z}
 do

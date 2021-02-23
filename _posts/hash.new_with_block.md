@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Hash.new with block
+label: til
+title: "Hash.new with block"
 ---
+
 ```ruby
 # While this creates a new default object each time
 h = Hash.new { |hash, key| hash[key] = "Go Fish: #{key}" }

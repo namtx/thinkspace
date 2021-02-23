@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: super keyword in Ruby's inheritance
+label: til
+title: "super keyword in Ruby's inheritance"
 ---
+
 ```ruby
 class Animal 
   def initialize name

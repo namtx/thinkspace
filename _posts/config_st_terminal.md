@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: config st terminal
+label: til
+title: "config st terminal"
 ---
+
 ### Step 1 - Clone st repository
 ```shell
 $ git clone https://git.suckless.org/st

@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: fetch Hash in Ruby 
+label: til
+title: "fetch Hash in Ruby "
 ---
+
 ```ruby
 pets = { cat: "Jess" }
 pets[:dinosaur]

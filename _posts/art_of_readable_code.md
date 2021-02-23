@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Art of readable code
+label: til
+title: "Art of readable code"
 ---
+
 #### Aspect of coding and how to make it "easy to understand":
 #### - Surface-level improvement
 Naming, commenting

@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Code Smell
+label: til
+title: "Code Smell"
 ---
+
 ### Long method
  + flog
 

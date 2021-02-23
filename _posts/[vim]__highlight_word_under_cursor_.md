@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: [VIM] Highlight word under cursor 
+label: til
+title: "[VIM] Highlight word under cursor "
 ---
+
 ```bash
 :set hlsearch
 ```

@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Docker practice
+label: til
+title: "Docker practice"
 ---
+
 `docker search redis`
 `docker run -d redis`
 `docker inspect redis`

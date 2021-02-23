@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: differences in Rails
+label: til
+title: "differences in Rails"
 ---
+
 ## `update_attribute` & `update_attributes`
 - `update_attribute` update single column <> `update_attributes`
 - `update_attribute` will not perform validations <> `update_attributes`

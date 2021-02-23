@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Replace || by indexOf
+label: til
+title: "Replace || by indexOf"
 ---
+
 ```js 
 if (input.files && input.files[0] && (ext == 'gif' || ext == 'png' || ext == 'jpeg' || ext == 'jpg'))...
 ```

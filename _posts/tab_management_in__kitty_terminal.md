@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Tab management in Kitty terminal
+label: til
+title: "Tab management in Kitty terminal"
 ---
+
 # 🐱 
 
 - `ctrl shift + t`: new tab

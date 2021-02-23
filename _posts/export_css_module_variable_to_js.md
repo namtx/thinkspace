@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Export css module variable to JS
+label: til
+title: "Export css module variable to JS"
 ---
+
 ```scss
 // styles.module.scss
 :export {

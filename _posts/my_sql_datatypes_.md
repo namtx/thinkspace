@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: MySQL datatypes 
+label: til
+title: "MySQL datatypes "
 ---
+
 # Schema Optimization and Indexing
 
 ###  Whole numbers

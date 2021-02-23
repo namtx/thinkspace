@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: JAVA_HOME and libexec/java_home
+label: til
+title: "JAVA_HOME and libexec/java_home"
 ---
+
 ### Get the list of available JDKs
 ```bash
 $ /usr/libexec/java_home -V

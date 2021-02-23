@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Ruby getter and setter
+label: til
+title: "Ruby getter and setter"
 ---
+
 In `Ruby`, getters and setters are typically defined by using class method `attr_accessor`
 ```ruby
 class Foo 

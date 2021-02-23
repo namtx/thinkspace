@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Ruby Constructor 
+label: til
+title: "Ruby Constructor "
 ---
+
 ### Responsibilities 
 + allocates space for the object 
 + assigns instance variables their initial values 

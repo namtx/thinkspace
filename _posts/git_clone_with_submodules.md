@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Git clone with submodules
+label: til
+title: "Git clone with submodules"
 ---
+
 https://stackoverflow.com/a/4438292
 
 ```bash

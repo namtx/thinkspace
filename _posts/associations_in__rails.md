@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: associations in Rails
+label: til
+title: "associations in Rails"
 ---
+
 ## self joins
 ```ruby
 class Employee < ApplicationRecord

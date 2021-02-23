@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: belongs_to association in Rails
+label: til
+title: "belongs_to association in Rails"
 ---
+
 ## Methods
 ```ruby
 class Book < ApplicationRecord

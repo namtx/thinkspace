@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: [Ruby] freeze object
+label: til
+title: "[Ruby] freeze object"
 ---
+
 ## Creating immutable objects
 
 > In Ruby constant is mutable

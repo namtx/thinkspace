@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: ancestors in Ruby
+label: til
+title: "ancestors in Ruby"
 ---
+
 ```ruby
 module Speak
   def speak sound

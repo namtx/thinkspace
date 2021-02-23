@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Locking in AR
+label: til
+title: "Locking in AR"
 ---
+
 ## Optimistic Locking
 Trong loại này, nhiều người dùng có thể truy cập cùng một đối tượng để đọc giá trị của nó, nhưng nếu hai người dùng thực hiện cập nhật thì sẽ phát sinh mâu thuẫn, chỉ có một người sử dụng sẽ thành công và một trong những người khác sẽ không được thực hiện.
 ```ruby

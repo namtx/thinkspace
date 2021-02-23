@@ -1,8 +1,8 @@
-
 ---
-label: til
 layout: default
-title: Diagram
+label: til
+title: "Diagram"
 ---
+
 https://www.websequencediagrams.com/
 

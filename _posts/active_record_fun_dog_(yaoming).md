@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: ActiveRecord fun dog (yaoming)
+label: til
+title: "ActiveRecord fun dog (yaoming)"
 ---
+
 ## joins
 ```ruby
 User.joins(:posts)

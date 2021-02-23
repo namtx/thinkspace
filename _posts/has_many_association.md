@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: has_many association
+label: til
+title: "has_many association"
 ---
+
 ## Methods
 ```ruby
 class Author < ApplicationRecord

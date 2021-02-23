@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Docker Cheatsheets
+label: til
+title: "Docker Cheatsheets"
 ---
+
 remove Docker image 
 ```bash
 sudo docker ps -a

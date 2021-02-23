@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Slices in Rust
+label: til
+title: "Slices in Rust"
 ---
+
 ```rust
 fn main() {
     let s = String::from("hello world");

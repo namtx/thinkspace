@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Change Ruby version by RVM
+label: til
+title: "Change Ruby version by RVM"
 ---
+
 ```bash
 source ~/.rvm/scripts/rvm 
 ```

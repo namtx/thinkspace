@@ -1,9 +1,9 @@
-
 ---
-label: til
 layout: default
-title: Multiple export with dot 
+label: til
+title: "Multiple export with dot "
 ---
+
 ### Do you want to use `Sidebar.Item` instead of `SidebarItem`?
 
 ```javascript

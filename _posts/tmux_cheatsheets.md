@@ -1,8 +1,8 @@
-
 ---
-label: til
 layout: default
-title: Tmux cheatsheets
+label: til
+title: "Tmux cheatsheets"
 ---
+
 https://tmuxcheatsheet.com/
 

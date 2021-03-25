@@ -6,6 +6,8 @@ title: "Switch case in bash "
 
 <p>
   
+  <span class="issue-label" style="background-color: #E6F510">bash</span>
+  
 </p>
 ```bash
 conf() {

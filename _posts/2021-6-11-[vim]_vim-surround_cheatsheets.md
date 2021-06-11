@@ -10,6 +10,7 @@ title: "[VIM] vim-surround cheatsheets"
 - `ds` - delete surrounding
 
 🔔 the `*` is used to denote the current cursor place
+
  | Old text | Command | New text ~ |
 |:---- | :-----: | ------:| 
 |"Hello *world!"|           ds" |        Hello world!|

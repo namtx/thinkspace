@@ -98,6 +98,10 @@ div.highlighter-rouge code {
   // background-color: lighten($light-gray-color, 13%);
 }
 
+code.highlighter-rouge {
+  background-color: #C1E7CB;
+}
+
 pre {
   -webkit-overflow-scrolling: touch;
   font-family: "SFMono-Regular",Menlo,Consolas,"Inconsolata",monospace;

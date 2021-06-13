@@ -6,16 +6,12 @@ title: "vim-surround cheatsheets"
 
 <p>
   
+  <span class="issue-label" style="background-color: #91ECC6">cheatsheets</span>
+  
+  <span class="issue-label" style="background-color: #c4ef83">vim</span>
+  
 </p>
 - `ds` - delete surrounding
-
-🔔 the `*` is used to denote the current cursor place
-
- | Old text | Command | New text ~ |
-|---- | ----- | ------ | 
-| "Hello *world!" | ds" | Hello world!|
-| (123+4*56)/2  | ds)| 123+456/2 |
-| <div>Yo!*</div> | dst | Yo! |
 - `cs` - change surrounding
 - `ys` - "you surround"
 

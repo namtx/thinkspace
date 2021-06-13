@@ -17,4 +17,11 @@ title: "vim-surround cheatsheets"
 | (123+4*56)/2  | ds)| 123+456/2 |
 | <div>Yo!*</div> | dst | Yo! |
 - `cs` - change surrounding
+- `ys` - "you surround"
+
+- `S` - visual mode
+
+`Shift + V` to go to Visual mode, and `S<div class="important">` to wrap content inside. 🚀 
+
+💡 `d`elete everything `i`nside `"` by sequence: `di"` or anything surround
 

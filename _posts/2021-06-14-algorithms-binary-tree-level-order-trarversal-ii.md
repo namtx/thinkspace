@@ -1,8 +1,8 @@
 ---
 layout: post
-title: [Algorithms] Binary tree - Level order traversal II
-description: [Algorithms] Binary tree - Level order traversal II
-keywords: algorithms, leetcode
+title: Algorithms - Binary Tree - Level order traversal II
+description: Algorithms - Binary Tree - Level order traversal II
+keywords: 
 ---
 
 ### Problem
@@ -104,4 +104,6 @@ class Solution {
 > Runtime: 1 ms, faster than 85.55% of Java online submissions for Binary Tree Level Order Traversal II.
 
 ### Sketch
+![dfs](https://user-images.githubusercontent.com/25602820/121942511-c33a1580-cd7a-11eb-8762-1868cb079b76.jpeg)
+![bfs](https://user-images.githubusercontent.com/25602820/121942492-bd443480-cd7a-11eb-82cd-1e2788b7966d.jpeg)
 

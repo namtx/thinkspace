@@ -12,4 +12,5 @@ title: "Reading queue"
   
 </p>
 - [https://github.com/Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+- [https://github.com/ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
 
